@@ -8,5 +8,5 @@ Snapshot of Sample data on oba:
  
 ![alt text][sample_screenshot]
 
-[sample_screenshot]: https://ibb.co/c2ma4S "Screenshot Lagankhel route Sample"
+[sample_screenshot]: https://image.ibb.co/f7xhjS/lagankhel_route.png "Screenshot Lagankhel route Sample"
 
